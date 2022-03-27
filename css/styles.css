@@ -1,0 +1,9 @@
+.nav-bar{
+    overflow: hidden;
+    background-color: black;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    left: 0px;
+}
+
